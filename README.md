@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **phithuan/phithuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm Phi Thuan</h2>
+<h2 align="center">Hello 👋, I'm Phi Thuan</h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
