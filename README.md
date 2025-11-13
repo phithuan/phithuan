@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a Data science at [ trường đại học. kỹ thuật - công nghệ cần thơ. ]([https://utop.io/](https://www.ctuet.edu.vn/)).
+> ✍ I'm a Data science at [ trường đại học. kỹ thuật - công nghệ Cần Thơ. ]([https://utop.io/](https://www.ctuet.edu.vn/)).
 
 <br />
 
